@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+*.bak
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+/vanilla/
+/reference/
