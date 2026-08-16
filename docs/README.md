@@ -5,6 +5,7 @@
 ## 项目基线
 
 - [项目定位与设计边界](project/identity.md)
+- [项目大方向 v0.1](project/direction_v0.1.md)
 - [长期开发约束](project/codex_constraints.md)
 - [当前开放问题](open_questions.md)
 
